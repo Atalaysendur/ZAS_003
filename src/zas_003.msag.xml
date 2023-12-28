@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZAS_003</ARBGB>
+    <MASTERLANG>T</MASTERLANG>
+    <STEXT>ALV-BAPI Odev Message Class,</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_003</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Veri Bulunamadı</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_003</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Alanları doldurunuz.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_003</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Kayıt İşlemi Başarılı</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_003</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Kayıt İşlemi Başarısız</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_003</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Lütfen Bir Satır Seçiniz !</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
